@@ -1,0 +1,34 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+
+    {
+      "name": "background_light_main",
+      "value": "#F4F4F4"
+    },
+    {
+      "name": "background_light_accent",
+      "value": "#FFFFFF"
+    },
+
+    {
+      "name": "cyan_1",
+      "value": "#e3fdfd"
+    },
+    {
+      "name": "cyan_2",
+      "value": "#cbf1f5"
+    },
+    {
+      "name": "cyan_3",
+      "value": "#a6e3e9"
+    },
+    {
+      "name": "cyan_4",
+      "value": "#71c9ce"
+    }
+  ]
+}

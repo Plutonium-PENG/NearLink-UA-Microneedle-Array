@@ -1,0 +1,196 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "应用主要入口。"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "星息历节"
+    },
+    {
+      "name": "mainTab_home",
+      "value": "首页"
+    },
+    {
+      "name": "app_name",
+      "value": "星息历节"
+    },
+    {
+      "name": "permission_Internet_desc",
+      "value": "用于联网同步数据等"
+    },
+    {
+      "name": "navToolBar_add",
+      "value": "添加"
+    },
+    {
+      "name": "settingsList_item_title_appearance_colorMode",
+      "value": "深浅色模式"
+    },
+    {
+      "name": "settingsList_item_title_appearance_themeColor",
+      "value": "主题配色"
+    },
+    {
+      "name": "settingsList_group_title_appearance",
+      "value": "外观"
+    },
+    {
+      "name": "settingsList_group_title_data",
+      "value": "数据"
+    },
+    {
+      "name": "settingsList_group_title_about",
+      "value": "关于"
+    },
+    {
+      "name": "settingsList_item_title_about_aboutThisApp",
+      "value": "关于此应用"
+    },
+    {
+      "name": "settingsList_item_title_about_checkUpgrade",
+      "value": "检查更新"
+    },
+    {
+      "name": "userCard_title_notLoggedIn",
+      "value": "未登录"
+    },
+    {
+      "name": "userCard_subtitle_notLoggedIn",
+      "value": "登录畅享更多权益"
+    },
+    {
+      "name": "userCard_button_login",
+      "value": "登录"
+    },
+    {
+      "name": "userCard_button_membership_leftDays",
+      "value": "剩余 %d 天"
+    },
+    {
+      "name": "userCard_button_membership_permanent",
+      "value": "永久会员"
+    },
+    {
+      "name": "settingsList_item_title_security_appLock",
+      "value": "应用锁"
+    },
+    {
+      "name": "settingsList_item_subtitle_security_appLock",
+      "value": "应用在启动时或离开一段时间后需要解锁"
+    },
+    {
+      "name": "settingsList_item_subtitle_appearance_colorMode_dark",
+      "value": "深色模式"
+    },
+    {
+      "name": "settingsList_item_subtitle_appearance_colorMode_light",
+      "value": "浅色模式"
+    },
+    {
+      "name": "settingsList_item_subtitle_appearance_colorMode_systemDefault",
+      "value": "跟随系统"
+    },
+    {
+      "name": "settings_toast_checkingUpgrade",
+      "value": "正在检查更新……"
+    },
+    {
+      "name": "settingsList_item_title_data_export",
+      "value": "导出数据"
+    },
+    {
+      "name": "settingsList_item_subtitle_data_export",
+      "value": "将数据导出为*.qdb, *.pdf, *.xlsx等格式"
+    },
+    {
+      "name": "settingsList_item_title_data_import",
+      "value": "导入数据"
+    },
+    {
+      "name": "settingsList_item_subtitle_data_import",
+      "value": "从*.qdb等格式导入数据"
+    },
+    {
+      "name": "settings_toast_noUpgrade",
+      "value": "没有更新。"
+    },
+    {
+      "name": "views_dialogs_button_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "views_dialogs_button_OK",
+      "value": "好"
+    },
+    {
+      "name": "views_dialogs_button_accept",
+      "value": "接受"
+    },
+    {
+      "name": "views_dialogs_button_decline",
+      "value": "拒绝"
+    },
+    {
+      "name": "views_dialogs_button_delete",
+      "value": "删除"
+    },
+    {
+      "name": "views_dialogs_button_confirm",
+      "value": "确认"
+    },
+    {
+      "name": "views_dialogs_message_unexpectedError",
+      "value": "%s."
+    },
+    {
+      "name": "views_dialogs_title_unexpectedError",
+      "value": "发生意料之外的错误"
+    },
+    {
+      "name": "views_dialogs_title_toBeSupport",
+      "value": "即将支持"
+    },
+    {
+      "name": "views_dialogs_message_toBeSupport",
+      "value": "异日图将好景，归去凤池夸。"
+    },
+    {
+      "name": "settingsList_item_title_security_unlockMethod",
+      "value": "解锁方式"
+    },
+    {
+      "name": "settingsList_item_subtitle_security_unlockMethod",
+      "value": "管理解锁方式"
+    },
+    {
+      "name": "settingsList_item_title_security_lockTimeout",
+      "value": "锁定超时"
+    },
+    {
+      "name": "settingsList_item_subtitle_security_lockTimeout",
+      "value": "当前设定：%s"
+    },
+    {
+      "name": "settings_aboutThisApp_title_EULA",
+      "value": "最终用户许可协议（EULA）"
+    },
+    {
+      "name": "settings_aboutThisApp_title_privacyPolicy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "mainTab_devices",
+      "value": "设备"
+    },
+    {
+      "name": "mainTab_profile",
+      "value": "我的"
+    }
+  ]
+}

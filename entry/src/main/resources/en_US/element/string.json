@@ -1,0 +1,196 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "App main entry."
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NearLink Microneedles"
+    },
+    {
+      "name": "mainTab_home",
+      "value": "Home"
+    },
+    {
+      "name": "app_name",
+      "value": "NearLink Microneedles"
+    },
+    {
+      "name": "permission_Internet_desc",
+      "value": "Used to connect to the Internet for data synchronization."
+    },
+    {
+      "name": "navToolBar_add",
+      "value": "Add"
+    },
+    {
+      "name": "settingsList_item_title_appearance_colorMode",
+      "value": "App Color Mode"
+    },
+    {
+      "name": "settingsList_item_title_appearance_themeColor",
+      "value": "App Theme Color"
+    },
+    {
+      "name": "settingsList_group_title_about",
+      "value": "About"
+    },
+    {
+      "name": "settingsList_group_title_data",
+      "value": "Data"
+    },
+    {
+      "name": "settingsList_group_title_appearance",
+      "value": "Appearance"
+    },
+    {
+      "name": "settingsList_item_title_about_aboutThisApp",
+      "value": "About This App"
+    },
+    {
+      "name": "settingsList_item_title_about_checkUpgrade",
+      "value": "Check Upgrade"
+    },
+    {
+      "name": "userCard_title_notLoggedIn",
+      "value": "Not Logged In"
+    },
+    {
+      "name": "userCard_subtitle_notLoggedIn",
+      "value": "Login to enjoy more benefits."
+    },
+    {
+      "name": "userCard_button_login",
+      "value": "Login"
+    },
+    {
+      "name": "userCard_button_membership_permanent",
+      "value": "Permanent Membership"
+    },
+    {
+      "name": "settingsList_item_title_security_appLock",
+      "value": "App Lock"
+    },
+    {
+      "name": "settingsList_item_subtitle_security_appLock",
+      "value": "Require to unlock when launching the App or leave it for a certain time"
+    },
+    {
+      "name": "settingsList_item_subtitle_appearance_colorMode_dark",
+      "value": "Dark mode"
+    },
+    {
+      "name": "userCard_button_membership_leftDays",
+      "value": "%d Days left"
+    },
+    {
+      "name": "settingsList_item_subtitle_appearance_colorMode_light",
+      "value": "Light mode"
+    },
+    {
+      "name": "settingsList_item_subtitle_appearance_colorMode_systemDefault",
+      "value": "System default"
+    },
+    {
+      "name": "settings_toast_checkingUpgrade",
+      "value": "Checking upgrade..."
+    },
+    {
+      "name": "settingsList_item_title_data_export",
+      "value": "Export Data"
+    },
+    {
+      "name": "settingsList_item_subtitle_data_export",
+      "value": "Export data as *.qdb, *.pdf, *.xlsx, etc."
+    },
+    {
+      "name": "settingsList_item_title_data_import",
+      "value": "Import Data"
+    },
+    {
+      "name": "settingsList_item_subtitle_data_import",
+      "value": "Import data from *.qdb, etc."
+    },
+    {
+      "name": "settings_toast_noUpgrade",
+      "value": "No upgrade."
+    },
+    {
+      "name": "views_dialogs_button_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "views_dialogs_button_OK",
+      "value": "OK"
+    },
+    {
+      "name": "views_dialogs_button_accept",
+      "value": "Accept"
+    },
+    {
+      "name": "views_dialogs_button_decline",
+      "value": "Decline"
+    },
+    {
+      "name": "views_dialogs_button_delete",
+      "value": "Delete"
+    },
+    {
+      "name": "views_dialogs_button_confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "views_dialogs_message_unexpectedError",
+      "value": "%s."
+    },
+    {
+      "name": "views_dialogs_title_unexpectedError",
+      "value": "Unexpected Error Occurred"
+    },
+    {
+      "name": "views_dialogs_title_toBeSupport",
+      "value": "Coming soon"
+    },
+    {
+      "name": "views_dialogs_message_toBeSupport",
+      "value": "Treasures deserve waiting."
+    },
+    {
+      "name": "settingsList_item_title_security_unlockMethod",
+      "value": "Unlock Method"
+    },
+    {
+      "name": "settingsList_item_subtitle_security_unlockMethod",
+      "value": "Manage Unlock Method"
+    },
+    {
+      "name": "settingsList_item_title_security_lockTimeout",
+      "value": "Time Out"
+    },
+    {
+      "name": "settingsList_item_subtitle_security_lockTimeout",
+      "value": "Current timer: %s"
+    },
+    {
+      "name": "settings_aboutThisApp_title_EULA",
+      "value": "End User Licence Agreement (EULA)"
+    },
+    {
+      "name": "settings_aboutThisApp_title_privacyPolicy",
+      "value": "Privacy Policy"
+    },
+    {
+      "name": "mainTab_devices",
+      "value": "Devices"
+    },
+    {
+      "name": "mainTab_profile",
+      "value": "Profile"
+    }
+  ]
+}
